@@ -1,3 +1,3 @@
 # algo-trading-clean
-![Market Analysis Dashboard](images/market_dashboard.png)
-![Strategy Performance](images/performance_dashboard.png)
+![Market Analysis Dashboard](market_dashboard.png)
+![Strategy Performance](performance_dashboard.png)
