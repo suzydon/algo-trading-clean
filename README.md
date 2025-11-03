@@ -45,10 +45,7 @@ Future Plans
 Add live paper trading via Alpaca or IBKR API
 Incorporate ML-based signal generation (XGBoost, LSTM)
 Multi-asset portfolio optimization
-Contact
-Feel free to connect or reach out:
 
-Suzy Tang
-Email: suzytang5544@gmail.com
-LinkedIn: linkedin.com/in/suzytang
+
+
 
