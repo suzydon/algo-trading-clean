@@ -1,19 +1,19 @@
 Algorithmic Trading Strategy
-📈 Algorithmic Trading Strategy: Momentum-Based Backtesting Engine
+ Algorithmic Trading Strategy: Momentum-Based Backtesting Engine
 This repository showcases a prototype algorithmic trading engine that identifies and backtests momentum-based strategies on U.S. equity market data. Designed as part of my self-driven learning in quantitative finance, the project reflects my interest in applying data science and machine learning to real-world trading problems.
 
-🚀 Project Goals
+ Project Goals
 Identify high-performing stocks using momentum indicators (RSI, SMA crossovers)
 Automate strategy generation and evaluation over historical periods
 Visualize key metrics (cumulative returns, drawdowns, Sharpe ratios)
 Build an extendable pipeline that can integrate with live trading environments
-🛠️ Technologies Used
+ Technologies Used
 Python (data manipulation, modeling)
 Pandas, NumPy, TA-Lib, yfinance
 Matplotlib, Seaborn for data visualization
 Jupyter Notebook for prototyping and iteration
 Git/GitHub for version control
-📊 Strategy Overview
+ Strategy Overview
 We tested a momentum-based strategy combining:
 
 RSI (Relative Strength Index): Buy signal under 30, sell over 70
